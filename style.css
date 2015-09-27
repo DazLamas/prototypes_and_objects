@@ -1,0 +1,11 @@
+button {
+  margin: 10px auto;
+/*  padding: 30px;
+  color: white;
+  background-color: crisom;*/
+}
+#data_display{
+  margin: 10px auto;
+  border: 1px solid black;
+  padding: 20px 10px;
+}
